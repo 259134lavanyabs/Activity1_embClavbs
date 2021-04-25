@@ -3,8 +3,8 @@
 ## In Action
 
 |ON|OFF|
-|:--:|:--:|
-|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
+|:--:|:--:|:--:|:--:|
+|![00](simulation/ON.png)|![01](simulation/OFF.png)|![10](simulation/OFF.png)|![11](simulation/OFF.png)|
 
 #### CI and Code Quality
 

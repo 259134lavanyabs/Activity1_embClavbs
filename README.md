@@ -2,7 +2,7 @@
 
 ## In Action
 
-|00|01|10|11|
+|00|01|
 |:--:|:--:|
 |![Screenshot (55)](https://user-images.githubusercontent.com/81295980/115983203-6f525200-a5bd-11eb-8404-22ca01b925fa.png)|![Screenshot (56)](https://user-images.githubusercontent.com/81295980/115983241-ade80c80-a5bd-11eb-8e45-43976cec6716.png)|!
 

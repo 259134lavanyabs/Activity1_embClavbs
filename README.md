@@ -2,9 +2,9 @@
 
 ## In Action
 
-|ON|OFF|
+|00|01|10|11|
 |:--:|:--:|:--:|:--:|
-|![00](simulation/ON.png)|![01](simulation/OFF.png)|![10](simulation/OFF.png)|![11](simulation/OFF.png)|
+|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|![OFF](simulation/OFF.png)|![OFF](simulation/OFF.png)|
 
 #### CI and Code Quality
 

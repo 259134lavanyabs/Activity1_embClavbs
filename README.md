@@ -1,14 +1,22 @@
 # LED Blinking 
 
+
+#### CI and Code Quality
+
+|CI|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|
+
+
 ## Activity-1
 
 |S1=0, S2=0|S1=0, S2=1|
 |:--:|:--:|
-|![Screenshot (55)](https://user-images.githubusercontent.com/81295980/115983203-6f525200-a5bd-11eb-8404-22ca01b925fa.png)|![Screenshot (56)](https://user-images.githubusercontent.com/81295980/115983241-ade80c80-a5bd-11eb-8e45-43976cec6716.png)|!
+|![state00](https://user-images.githubusercontent.com/81295980/116694140-85587c00-a9dc-11eb-85fc-7f8f4be85b8e.png)|![state01](https://user-images.githubusercontent.com/81295980/116694280-b6d14780-a9dc-11eb-9ae2-e22e8bb6e743.png)|
 
 |S1=1, S2=0|S1=1, S2=1|
 |:--:|:--:|
-|![Screenshot (57)](https://user-images.githubusercontent.com/81295980/115983275-e12a9b80-a5bd-11eb-9bc2-cdb6bc4cccf6.png)|![Screenshot (58)](https://user-images.githubusercontent.com/81295980/115983316-146d2a80-a5be-11eb-8519-0b8469af2b10.png)|
+|![state10](https://user-images.githubusercontent.com/81295980/116694371-d10b2580-a9dc-11eb-8fb1-2275777797b0.png)|![state11](https://user-images.githubusercontent.com/81295980/116694411-e1bb9b80-a9dc-11eb-852a-1fff3685cfba.png)|
 
 ## Activity-2
 ![activity2](https://user-images.githubusercontent.com/81295980/116672862-4ae0e600-a9c0-11eb-8440-71c0671e692b.png)

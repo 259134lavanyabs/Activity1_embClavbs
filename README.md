@@ -1,14 +1,20 @@
 # LED Blinking 
 
-## In Action
+## Activity=1
 
-|00|01|
+|S1=0, S2=0|S1=0, S2=1|
 |:--:|:--:|
 |![Screenshot (55)](https://user-images.githubusercontent.com/81295980/115983203-6f525200-a5bd-11eb-8404-22ca01b925fa.png)|![Screenshot (56)](https://user-images.githubusercontent.com/81295980/115983241-ade80c80-a5bd-11eb-8e45-43976cec6716.png)|!
 
-|10|11|
+|S1=1, S2=0|S1=1, S2=1|
 |:--:|:--:|
 |![Screenshot (57)](https://user-images.githubusercontent.com/81295980/115983275-e12a9b80-a5bd-11eb-9bc2-cdb6bc4cccf6.png)|![Screenshot (58)](https://user-images.githubusercontent.com/81295980/115983316-146d2a80-a5be-11eb-8519-0b8469af2b10.png)|
+
+## Activity=2
+
+|S1=0, S2=0|
+|:--:|
+|![Screenshot (55)](https://user-images.githubusercontent.com/81295980/115983203-6f525200-a5bd-11eb-8404-22ca01b925fa.png)|
 
 #### CI and Code Quality
 

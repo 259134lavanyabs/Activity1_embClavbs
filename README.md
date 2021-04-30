@@ -1,6 +1,6 @@
 # LED Blinking 
 
-## Activity=1
+## Activity-1
 
 |S1=0, S2=0|S1=0, S2=1|
 |:--:|:--:|
@@ -10,7 +10,7 @@
 |:--:|:--:|
 |![Screenshot (57)](https://user-images.githubusercontent.com/81295980/115983275-e12a9b80-a5bd-11eb-9bc2-cdb6bc4cccf6.png)|![Screenshot (58)](https://user-images.githubusercontent.com/81295980/115983316-146d2a80-a5be-11eb-8519-0b8469af2b10.png)|
 
-## Activity=2
+## Activity-2
 
 |S1=0, S2=0|
 |:--:|

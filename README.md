@@ -5,7 +5,7 @@
 
 |CI|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ce26ac873e694b66b106ca2ebbf3fc7a)](https://img.shields.io/badge/Code--Quality-A-brightgreen)(https://www.codacy.com/gh/259134lavanyabs/Activity1_embClavbs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259134lavanyabs/Activity1_embClavbs&amp;utm_campaign=Badge_Grade)|
+|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ce26ac873e694b66b106ca2ebbf3fc7a)](https://www.codacy.com/gh/259134lavanyabs/Activity1_embClavbs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259134lavanyabs/Activity1_embClavbs&amp;utm_campaign=Badge_Grade)|
 
 
 ## Activity-1
@@ -29,8 +29,3 @@
 
 
 
-#### CI and Code Quality
-
-|CI|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|

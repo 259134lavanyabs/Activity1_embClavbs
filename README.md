@@ -5,7 +5,7 @@
 
 |CI|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ce26ac873e694b66b106ca2ebbf3fc7a)](https://www.codacy.com/gh/259134lavanyabs/Activity1_embClavbs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259134lavanyabs/Activity1_embClavbs&amp;utm_campaign=Badge_Grade)|
+|[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ce26ac873e694b66b106ca2ebbf3fc7a)](https://www.codacy.com/gh/259134lavanyabs/Activity1_embClavbs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259134lavanyabs/Activity1_embClavbs&amp;utm_campaign=Badge_Grade)https://img.shields.io/badge/Code--Quality-A-brightgreen|
 
 
 ## Activity-1

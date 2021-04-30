@@ -5,6 +5,7 @@
 
 |CI|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97ad3cbbde764745bf06655f10cd534f)](https://app.codacy.com/gh/259134lavanyabs/Activity1_embClavbs?utm_source=github.com&utm_medium=referral&utm_content=259134lavanyabs/Activity1_embClavbs&utm_campaign=Badge_Grade_Settings)
 |[![CI](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/blank.yml)|[![Cppcheck](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259134lavanyabs/Activity1_embClavbs/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|
 
 

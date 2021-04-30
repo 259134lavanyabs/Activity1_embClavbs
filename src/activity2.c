@@ -16,14 +16,19 @@ void Init_ADC(){
  */
 uint16_t Read_ADC(uint8_t ch)
 {
+    //Select ADC ch must be 0-7
     ADMUX&=0xf8;
     ch = ch&0b00000111;
     ADMUX|=ch;
-
-    ADCSRA|=(1<<ADSC); /**< Start a single conversion */
-
-    while(!(ADCSRA & (1<<ADIF)));/**< wait for conversion to be complete */
-    ADCSRA|=(1<<ADIF);/**< clear ADIF */
+    
+    //Start single conversion
+    ADCSRA|=(1<<ADSC); 
+    
+    //wait for conversation to complete
+    while(!(ADCSRA & (1<<ADIF)));
+    
+    //clear ADIF by writing one to it
+    ADCSRA|=(1<<ADIF);
     return(ADC);
 
 }
